@@ -1,9 +1,10 @@
 body {
-    background: white url("images/background.png") no-repeat;
+    background: #aaf8e1 url("images/background.png") no-repeat;
     background-position: center;
-    background-size: 10%;
+    background-size: 30%;
     height: 500px;
-    border-top: 10px solid #ccc;
+    font-family: 'Jua';
+    font-size: 25px;
 }
 title{
     color: #c80;

@@ -1,14 +1,17 @@
 h1 a {
-    color: #FCA205;
-    font-family: 'Lobster';
+    color: #aaf8e1;
+    font-family: 'Indie Flower';
 }
 body {
     padding-left: 15px;
+    font-family: 'Jua';
+    font-size: 30px;
 }
 .page-header {
-    background-color: #ff9400;
+    background-color: #8072c6;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
+
 }
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .pageheader h1 a:active {
     color: #ffffff;
